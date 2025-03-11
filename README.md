@@ -9,7 +9,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VL1507&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VL1507&theme=merko)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VL1507&theme=merko)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VL1507&theme=merko)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VL1507&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VL1507&theme=merko)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VL1507&theme=merko&utcOffset=10)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
