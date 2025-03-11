@@ -1,5 +1,7 @@
 #### Сейчас эксперементирую с README.md, поэтому он выглядет так
 
+![](https://komarev.com/ghpvc/?username=VL1507)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=VL1507)](https://git.io/typing-svg)
 
 
@@ -23,10 +25,8 @@
  
 [![codewars](https://www.codewars.com/users/VL1507/badges/micro)](https://www.codewars.com/users/VL1507) 
 
+### Contact Me
 
 Telegram: @VL1507
 
 Email:
-
-
-![](https://komarev.com/ghpvc/?username=VL1507)
