@@ -1,4 +1,4 @@
-#### Сейчас эксперементирую с README.md, поэтому он выглядет так
+### Сейчас эксперементирую с README.md, поэтому он выглядет так
 
 ![](https://komarev.com/ghpvc/?username=VL1507)
 
@@ -17,7 +17,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VL1507&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### codewars 
+### codewars 
 
 [![codewars](https://www.codewars.com/users/VL1507/badges/large)](https://www.codewars.com/users/VL1507)   
 
@@ -25,7 +25,7 @@
  
 [![codewars](https://www.codewars.com/users/VL1507/badges/micro)](https://www.codewars.com/users/VL1507) 
 
-### Contact Me
+## Contact Me
 
 Telegram: @VL1507
 
