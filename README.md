@@ -1,5 +1,5 @@
 ### Сейчас эксперементирую с README.md, поэтому он выглядет так
-
+<!-- https://habr.com/ru/articles/649363/ -->
 ![](https://komarev.com/ghpvc/?username=VL1507)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=VL1507)](https://git.io/typing-svg)
@@ -11,10 +11,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VL1507&theme=merko)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VL1507&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VL1507&theme=merko)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VL1507&theme=merko&utcOffset=10)
 
+<!-- https://github.com/anuraghazra/github-readme-stats#hide-individual-languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&layout=compact&theme=merko&hide=Mako,Dockerfile,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&theme=merko&hide=Mako,Dockerfile,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VL1507&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
