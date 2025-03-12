@@ -23,10 +23,10 @@
 ### Codewars 
 
 [![codewars](https://www.codewars.com/users/VL1507/badges/large)](https://www.codewars.com/users/VL1507)   
-
-[![codewars](https://www.codewars.com/users/VL1507/badges/small)](https://www.codewars.com/users/VL1507) 
- 
-[![codewars](https://www.codewars.com/users/VL1507/badges/micro)](https://www.codewars.com/users/VL1507) 
+<!--
+[![codewars](https://www.codewars.com/users/VL1507/badges/small)](https://www.codewars.com/users/VL1507) -->
+ <!--
+[![codewars](https://www.codewars.com/users/VL1507/badges/micro)](https://www.codewars.com/users/VL1507) -->
 
 ### LeetCode
 
