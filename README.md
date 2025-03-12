@@ -29,7 +29,7 @@
 
 ### LeetCode
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/VL1507?theme=transparent&ext=contest)](https://leetcode.com/VL1507)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/VL1507?theme=dark&ext=contest)](https://leetcode.com/VL1507)
 
 ## Contact Me
 
