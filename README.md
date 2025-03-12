@@ -32,8 +32,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/VL1507?theme=dark&ext=contest)](https://leetcode.com/VL1507)
 
-## Contact Me
+## Contact With Me
 
-Telegram: @VL1507
-
-Email:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VL1507)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vova.mashyanov+fromgithub@gmail.com)
