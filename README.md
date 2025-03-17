@@ -28,7 +28,7 @@
 [![codewars](https://www.codewars.com/users/VL1507/badges/small)](https://www.codewars.com/users/VL1507) -->
  <!--
 [![codewars](https://www.codewars.com/users/VL1507/badges/micro)](https://www.codewars.com/users/VL1507) -->
-![Codewars](https://github.r2v.ch/codewars?user=VL1507&top_languages=true&theme=dark)
+[![Codewars](https://github.r2v.ch/codewars?user=VL1507&top_languages=true&theme=dark)](https://www.codewars.com/users/VL1507)
 
 ### LeetCode
 
