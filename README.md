@@ -16,7 +16,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&layout=compact&theme=merko&hide=Mako,Dockerfile,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&theme=merko&hide=Mako,Dockerfile,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&theme=merko&hide=Mako,Dockerfile,Makefile&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VL1507&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
