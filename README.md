@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=VL1507%20|%20Mashyanov%20Vladimir)](https://git.io/typing-svg)
 
 
-### GitHub
+## GitHub
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VL1507&theme=merko&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL1507&layout=compact&theme=merko&hide=Mako,Dockerfile,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-### [Codewars](https://www.codewars.com/users/VL1507) 
+## [Codewars](https://www.codewars.com/users/VL1507) 
 
 [![codewars](https://www.codewars.com/users/VL1507/badges/large)](https://www.codewars.com/users/VL1507)   
 <!--
@@ -30,7 +30,7 @@
 [![codewars](https://www.codewars.com/users/VL1507/badges/micro)](https://www.codewars.com/users/VL1507) -->
 [![Codewars](https://github.r2v.ch/codewars?user=VL1507&top_languages=true&theme=dark)](https://www.codewars.com/users/VL1507)
 
-### [LeetCode](https://leetcode.com/VL1507)
+## [LeetCode](https://leetcode.com/VL1507)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/VL1507?theme=dark&ext=contest)](https://leetcode.com/VL1507)
 
