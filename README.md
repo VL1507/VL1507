@@ -34,8 +34,10 @@
 
 ## [LeetCode](https://leetcode.com/VL1507)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/VL1507?theme=dark&ext=activity)](https://leetcode.com/VL1507)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/VL1507?theme=dark)](https://leetcode.com/VL1507)
+<!--
+&ext=activity
+-->
 ## Contact With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VL1507)
