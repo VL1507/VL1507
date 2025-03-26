@@ -34,9 +34,10 @@
 
 ## [LeetCode](https://leetcode.com/VL1507)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/VL1507?theme=dark&ext=activity)](https://leetcode.com/VL1507)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/VL1507?theme=dark&ext=heatmap)](https://leetcode.com/VL1507)
 <!--
-&ext=activity
+&ext=activity 
+heatmap
 -->
 ## Contact With Me
 
